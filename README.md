@@ -55,7 +55,7 @@ server:
   ssh_user: user_name
   shared_folder: folder_path
   customers:
-    $costumer:
+    $customer:
       address: ip_address
 ```
 
